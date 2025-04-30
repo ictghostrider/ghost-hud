@@ -1,0 +1,23 @@
+# Ignore non-frontend system folders
+admin-ghostshell/
+brew-4.4.32/
+frontend_hud/
+node_modules/
+dist/
+
+# Optional: anything else heavy or unused
+*.log
+*.DS_Store
+*.exe
+admin-ghostshell/
+node_modules/
+dist/
+admin-ghostshell/
+node_modules/
+dist/
+admin-ghostshell/
+node_modules/
+dist/
+node_modules/
+dist/
+.env
